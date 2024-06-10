@@ -135,7 +135,7 @@ hr {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        height: 100vh;
+        
     }
 
     .card {
@@ -143,6 +143,7 @@ hr {
         padding: 30px;
         border-radius: 25px;
         background-color: white;
+        margin-top: 80px;
     }
 
     .bg-image {
